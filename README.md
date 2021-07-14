@@ -12,7 +12,7 @@ Distribution: war
 ```
 java -jar <"path_of_jenkins.war_file">
 ```
-_To configure jenlins in cutom port_
+_To configure jenkins in custom port_
 
 # Cmd
 ```
