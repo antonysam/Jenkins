@@ -44,3 +44,9 @@ can add the maven plugin from the manage plugin tab
 
 3. Initially it will download all the dependencies from the maven cloud repo and execute the testcase defined the TestNG.xml file
 
+# For adding the Java JDK in jenkins
+1. Jenkins > Manage Jenkins > Manage Nodes > configure icon
+
+2. scroll down to node properties select `Environment Variables` and define name as ` java.home` path ->provide the JDK filepath
+
+
