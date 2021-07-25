@@ -22,6 +22,10 @@ java -jar <"path_of_jenkins.war_file"> --httpPort=<"port_no">
 It will setup a webroot directory
 Will generate a key in the cmd screen
 
+or 
+
+navigate $JENKINS_HOME/secrets/initialAdminpassword file
+
 can add the maven plugin from the manage plugin tab
 
 # Configuration
