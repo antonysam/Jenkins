@@ -16,5 +16,6 @@ Steps followed for creating the delivery pipeline
 
 8.In the previous step window click on the `Enable start of new pipeline build` will provide the `Build Now` button in the view
 
+The following image shows the Delivery pipeline view 
 
-
+![](https://github.com/antonysam/Jenkins/blob/master/Images/DeliveryPipeline.PNG)
