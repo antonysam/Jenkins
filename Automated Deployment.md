@@ -9,4 +9,5 @@
 7) 
 8) Click on Tomcat server with the suitable version available in your machine as a pre-requisite navigate to `tomcat location->conf->tomcat-users` 
   create a user in the XML file and run the tomcat server by `startup.bat` configure the Tomcat port in tomcat->conf->server.xml->search for connector and can change the port
-9) Click on post build action click Deploy WAR/EAR to a container and provide the sample war file location and provide the tomcat version and credentials
+9) Click on post build action click Deploy WAR/EAR to a container and provide the sample war file location and provide the tomcat version and credentials and save
+10)click the `build now` and navigate to `http://localhost:<"portno">/sample.war/` to view the deployed app
